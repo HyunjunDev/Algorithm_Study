@@ -6,8 +6,8 @@ int main()
 	cin >> y >> m >> d;
 	result = y + m + d;
 	if (result % 200 < 100)
-		cout << "´ë¹Ú" << endl;
+		cout << "ëŒ€ë°•" << endl;
 	else
-		cout << "±×·°Àú·°" << endl;
+		cout << "ê·¸ëŸ­ì €ëŸ­" << endl;
 	return 0;
 }
