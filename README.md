@@ -1,5 +1,5 @@
 # ALGORITHM 😉
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=hyunjun5959&theme=warm)
+
 
 ### 공부 진행 현황
 > Algorithm
