@@ -1,6 +1,5 @@
 # ALGORITHM 😉   
-      
-   
+<br>
 ### 공부 진행 현황   
 > <img src="https://img.shields.io/badge/NOTION-000000?style=flat-square&logo=notion&logoColor=white"/>ㅤNotion  ↗      <img align='right' src="http://mazandi.herokuapp.com/api?handle=hyunjun5959&theme=warm"/>   
 > : 틀린 문제 오답 노트   
@@ -14,6 +13,5 @@
 > 이것이 코딩 테스트다 문제 풀이   
 > <img src="https://img.shields.io/badge/INFLEARN-5FCF80?style=flat-square&logo=Gumtree&logoColor=white"/>ㅤit 취업을 위한 알고리즘 문제풀이  ↗    
 > it 취업을 위한 알고리즘 문제풀이 (with C/C++) : 코딩테스트 대비 문제 풀이    
-         
-         
+<br>     
    ***   
