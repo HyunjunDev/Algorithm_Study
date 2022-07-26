@@ -1,11 +1,10 @@
 # ALGORITHM 😉
 
 ### 공부 진행 현황   
-<<img align='right' src="http://mazandi.herokuapp.com/api?handle={handle}&theme=warm"/>
 > Algorithm
 > > <img src="https://img.shields.io/badge/NOTION-000000?style=flat-square&logo=notion&logoColor=white"/>ㅤNotion  ↗      
 > > : 틀린 문제 오답 노트   
-> > <img src="https://img.shields.io/badge/CODEUP-blue?style=flat-square&logo=codio&logoColor=white"/>ㅤCodeUp  ↗        
+> > <img src="https://img.shields.io/badge/CODEUP-blue?style=flat-square&logo=codio&logoColor=white"/>ㅤCodeUp  ↗        <img align='right' src="http://mazandi.herokuapp.com/api?handle={handle}&theme=warm"/>   
 > > : 코드업 문제 풀이    
 > > <img src="https://img.shields.io/badge/BAEKJOON-556472?style=flat-square&logo=CodersRank&logoColor=white"/>ㅤBaekjoon  ↗    
 > > : 백준 온라인 저지 문제 풀이       
