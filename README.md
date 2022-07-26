@@ -22,7 +22,7 @@
 
 ###### - [인프런 강의: it 취업을 위한 알고리즘 문제풀이 (with C/C++) : 코딩테스트 대비](https://www.inflearn.com/course/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/dashboard)    
 
-##### - [서적: 이것이 취업을 위한 코딩 테스트다 with 파이썬] (http://www.yes24.com/Product/Goods/91433923)      
+##### - [서적: 이것이 취업을 위한 코딩 테스트다 with 파이썬](http://www.yes24.com/Product/Goods/91433923)      
 
 ##### - [CodeUp](https://www.codeup.kr/)   
 
