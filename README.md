@@ -39,4 +39,4 @@
 ##### - [프로그래머스: 코딩테스트 연습](https://school.programmers.co.kr/learn/challenges)
 
 
-[코드업]:
+[코드업]: ./CodeUp
