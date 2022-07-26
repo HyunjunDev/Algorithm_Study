@@ -2,9 +2,9 @@
 
 ### 공부 진행 현황   
 > Algorithm
-> > <img src="https://img.shields.io/badge/NOTION-000000?style=flat-square&logo=notion&logoColor=white"/>ㅤNotion  ↗      
+> > <img src="https://img.shields.io/badge/NOTION-000000?style=flat-square&logo=notion&logoColor=white"/>ㅤNotion  ↗      <img align='right' src="http://mazandi.herokuapp.com/api?handle=hyunjun5959&theme=warm"/>   
 > > : 틀린 문제 오답 노트   
-> > <img src="https://img.shields.io/badge/CODEUP-blue?style=flat-square&logo=codio&logoColor=white"/>ㅤCodeUp  ↗        <img align='right' src="http://mazandi.herokuapp.com/api?handle={handle}&theme=warm"/>   
+> > <img src="https://img.shields.io/badge/CODEUP-blue?style=flat-square&logo=codio&logoColor=white"/>ㅤCodeUp  ↗        
 > > : 코드업 문제 풀이    
 > > <img src="https://img.shields.io/badge/BAEKJOON-556472?style=flat-square&logo=CodersRank&logoColor=white"/>ㅤBaekjoon  ↗    
 > > : 백준 온라인 저지 문제 풀이       
