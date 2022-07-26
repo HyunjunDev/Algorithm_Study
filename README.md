@@ -7,7 +7,7 @@
 > : 틀린 문제 오답 노트   
 > <img src="https://img.shields.io/badge/CODEUP-blue?style=flat-square&logo=codio&logoColor=white"/>ㅤ**CodeUp**  [↗][코드업]        
 > : 코드업 문제 풀이    
-> <img src="https://img.shields.io/badge/BAEKJOON-556472?style=flat-square&logo=CodersRank&logoColor=white"/>ㅤ**Baekjoon**  ↗    
+> <img src="https://img.shields.io/badge/BAEKJOON-556472?style=flat-square&logo=CodersRank&logoColor=white"/>ㅤ**Baekjoon**  [↗][백준]    
 > : 백준 온라인 저지 문제 풀이       
 > <img src="https://img.shields.io/badge/PROGRAMMERS-3A1AB6?style=flat-square&logo=Fauna&logoColor=white"/>ㅤ**Programmers**  ↗    
 > 프로그래머스 코딩테스트 연습 문제 풀이   
@@ -40,3 +40,4 @@
 
 
 [코드업]: ./CodeUp
+[백준]: ./BAEKJOON
