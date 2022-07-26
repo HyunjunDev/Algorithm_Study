@@ -5,7 +5,7 @@
 ### 공부 진행 현황   
 > <img src="https://img.shields.io/badge/NOTION-000000?style=flat-square&logo=notion&logoColor=white"/>ㅤ**Notion**  ↗      <img align='right' src="http://mazandi.herokuapp.com/api?handle=hyunjun5959&theme=warm"/>   
 > : 틀린 문제 오답 노트   
-> <img src="https://img.shields.io/badge/CODEUP-blue?style=flat-square&logo=codio&logoColor=white"/>ㅤ**CodeUp**  ↗        
+> <img src="https://img.shields.io/badge/CODEUP-blue?style=flat-square&logo=codio&logoColor=white"/>ㅤ**CodeUp**  [↗][코드업]        
 > : 코드업 문제 풀이    
 > <img src="https://img.shields.io/badge/BAEKJOON-556472?style=flat-square&logo=CodersRank&logoColor=white"/>ㅤ**Baekjoon**  ↗    
 > : 백준 온라인 저지 문제 풀이       
@@ -37,3 +37,6 @@
 ##### - [백준 온라인 저지](https://www.acmicpc.net/)   
 
 ##### - [프로그래머스: 코딩테스트 연습](https://school.programmers.co.kr/learn/challenges)
+
+
+[코드업]:
