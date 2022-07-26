@@ -3,4 +3,4 @@
 
 ### 공부 진행 현황
 > Algorithm
-> > #CodeUp ↗
+> > #CodeUp  ↗
