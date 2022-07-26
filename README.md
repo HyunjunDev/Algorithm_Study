@@ -1,3 +1,6 @@
 # ALGORITHM 😉
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=hyunjun5959&theme=cold)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyunjun5959)](https://solved.ac/hyunjun5959/)
+
+### 공부 진행 현황
+> Algorithm
+> > Notion  ↗
+> > : 틀린 문제 오답 노트
