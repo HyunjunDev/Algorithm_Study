@@ -1,4 +1,5 @@
 # ALGORITHM 😉   
+<img src="https://img.shields.io/github/languages/top/beygee/survive"/>
 <br>
 
 ### 공부 진행 현황   
