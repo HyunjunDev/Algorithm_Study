@@ -1,7 +1,2 @@
-# Algorithm
-알고리즘 문제 풀이를 저장하는 곳입니다.
-
-### 공부 진행 현황
-> Algorithm
-> > <img src="https://img.shields.io/badge/CodeUp-blue?style=flat-square&logo=codio&logoColor=white"/> ↗
-> > : CodeUp 문제 풀이
+# ALGORITHM 😉
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyunjun5959)](https://solved.ac/hyunjun5959/)
