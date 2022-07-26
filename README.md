@@ -1,5 +1,4 @@
-# ALGORITHM 😉   
-<img src="https://img.shields.io/github/languages/top/HyunjunDev/Algorithm_Study"/><img src="https://img.shields.io/github/commit-activity/m/HyunjunDev/Algorithm_Study"/>
+# ALGORITHM 😉   <img src="https://img.shields.io/github/languages/top/HyunjunDev/Algorithm_Study"/><img src="https://img.shields.io/github/commit-activity/m/HyunjunDev/Algorithm_Study"/>
 <br>
 
 ### 공부 진행 현황   
