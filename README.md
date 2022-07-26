@@ -3,4 +3,4 @@
 
 ### 공부 진행 현황
 > Algorithm
-> > #CodeUp  ↗
+> > <img src="https://img.shields.io/badge/CodeUp-blue?style=flat-square&logo=codio&logoColor=white"/>   CodeUp  ↗
