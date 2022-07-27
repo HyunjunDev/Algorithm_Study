@@ -38,7 +38,7 @@
 
 ##### - [프로그래머스: 코딩테스트 연습](https://school.programmers.co.kr/learn/challenges)
 
-[노션]: ./Notion
+[노션]: ./#Notion
 [코드업]: ./CodeUp
 [백준]: ./BAEKJOON
 [프로그래머스]: ./Programmers
