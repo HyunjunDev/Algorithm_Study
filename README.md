@@ -9,11 +9,11 @@
 > : 코드업 문제 풀이    
 > <img src="https://img.shields.io/badge/BAEKJOON-556472?style=flat-square&logo=CodersRank&logoColor=white"/>ㅤ**Baekjoon**  [↗][백준]    
 > : 백준 온라인 저지 문제 풀이       
-> <img src="https://img.shields.io/badge/PROGRAMMERS-3A1AB6?style=flat-square&logo=Fauna&logoColor=white"/>ㅤ**Programmers**  ↗    
+> <img src="https://img.shields.io/badge/PROGRAMMERS-3A1AB6?style=flat-square&logo=Fauna&logoColor=white"/>ㅤ**Programmers**  [↗][프로그래머스]    
 > 프로그래머스 코딩테스트 연습 문제 풀이   
-> <img src="https://img.shields.io/badge/BOOK-A5915F?style=flat-square&logo=GitBook&logoColor=white"/>ㅤ**이것이 코딩테스트다**  ↗    
+> <img src="https://img.shields.io/badge/BOOK-A5915F?style=flat-square&logo=GitBook&logoColor=white"/>ㅤ**이것이 코딩테스트다**  [↗][이것이 코딩테스트다]    
 > 이것이 코딩 테스트다 문제 풀이   
-> <img src="https://img.shields.io/badge/INFLEARN-5FCF80?style=flat-square&logo=Gumtree&logoColor=white"/>ㅤ**it 취업을 위한 알고리즘 문제풀이**  ↗    
+> <img src="https://img.shields.io/badge/INFLEARN-5FCF80?style=flat-square&logo=Gumtree&logoColor=white"/>ㅤ**it 취업을 위한 알고리즘 문제풀이**  [↗][취업을 위한 알고리즘 풀이]       
 > it 취업을 위한 알고리즘 문제풀이 (with C/C++) : 코딩테스트 대비 문제 풀이    
 <br>     
 
@@ -41,3 +41,6 @@
 
 [코드업]: ./CodeUp
 [백준]: ./BAEKJOON
+[프로그래머스]: ./Programmers
+[이것이 코딩테스트다]: ./이것이 코딩테스트다
+[취업을 위한 알고리즘 풀이]: ./취업을 위한 알고리즘 문제 풀이
