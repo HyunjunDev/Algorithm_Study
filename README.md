@@ -3,7 +3,7 @@
 <br>
 
 ### 공부 진행 현황   
-> <img src="https://img.shields.io/badge/NOTION-000000?style=flat-square&logo=notion&logoColor=white"/>ㅤ**Notion**  [↗][노션]      <img align='right' src="http://mazandi.herokuapp.com/api?handle=hyunjun5959&theme=warm"/>   
+> <img src="https://img.shields.io/badge/NOTION-000000?style=flat-square&logo=notion&logoColor=white"/>ㅤ**Notion**  [↗](https://github.com/HyunjunDev/Algorithm_Study/tree/main/%23Notion)      <img align='right' src="http://mazandi.herokuapp.com/api?handle=hyunjun5959&theme=warm"/>   
 > : 틀린 문제 오답 노트   
 > <img src="https://img.shields.io/badge/CODEUP-blue?style=flat-square&logo=codio&logoColor=white"/>ㅤ**CodeUp**  [↗][코드업]        
 > : 코드업 문제 풀이    
@@ -11,9 +11,9 @@
 > : 백준 온라인 저지 문제 풀이       
 > <img src="https://img.shields.io/badge/PROGRAMMERS-3A1AB6?style=flat-square&logo=Fauna&logoColor=white"/>ㅤ**Programmers**  [↗][프로그래머스]    
 > 프로그래머스 코딩테스트 연습 문제 풀이   
-> <img src="https://img.shields.io/badge/BOOK-A5915F?style=flat-square&logo=GitBook&logoColor=white"/>ㅤ**이것이 코딩테스트다**  [↗][이것이코딩테스트다]    
+> <img src="https://img.shields.io/badge/BOOK-A5915F?style=flat-square&logo=GitBook&logoColor=white"/>ㅤ**이것이 코딩테스트다**  [↗](https://github.com/HyunjunDev/Algorithm_Study/tree/main/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4)  
 > 이것이 코딩 테스트다 문제 풀이   
-> <img src="https://img.shields.io/badge/INFLEARN-5FCF80?style=flat-square&logo=Gumtree&logoColor=white"/>ㅤ**it 취업을 위한 알고리즘 문제풀이**  [↗][취업을위한알고리즘풀이]       
+> <img src="https://img.shields.io/badge/INFLEARN-5FCF80?style=flat-square&logo=Gumtree&logoColor=white"/>ㅤ**it 취업을 위한 알고리즘 문제풀이**  [↗](https://github.com/HyunjunDev/Algorithm_Study/tree/main/%EC%B7%A8%EC%97%85%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4)          
 > it 취업을 위한 알고리즘 문제풀이 (with C/C++) : 코딩테스트 대비 문제 풀이    
 <br>     
 
@@ -38,9 +38,6 @@
 
 ##### - [프로그래머스: 코딩테스트 연습](https://school.programmers.co.kr/learn/challenges)
 
-[노션]: (https://github.com/HyunjunDev/Algorithm_Study/tree/main/%23Notion)
 [코드업]: ./CodeUp
 [백준]: ./BAEKJOON
 [프로그래머스]: ./Programmers
-[이것이코딩테스트다]: (https://github.com/HyunjunDev/Algorithm_Study/tree/main/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4)
-[취업을위한알고리즘풀이]: (https://github.com/HyunjunDev/Algorithm_Study/tree/main/%EC%B7%A8%EC%97%85%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4)
