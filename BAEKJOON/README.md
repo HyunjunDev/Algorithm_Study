@@ -29,9 +29,9 @@
 
 |  번호  |  문제 이름  |  문제 번호  |  난이도  |  유형  |  코드  |  성공 여부  |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
-| 01 | 오큰수 | [17298](https://www.acmicpc.net/problem/17298) | <img src="https://static.solved.ac/tier_small/12.svg" width="20px"/> | 자료 구조, 스택 | [보기](./GOLD/17298_오큰수.cpp) | ❌ |
-| 02 | 탑 | [2493](https://www.acmicpc.net/problem/2493) | <img src="https://static.solved.ac/tier_small/11.svg" width="20px"/> | 자료 구조, 스택 | [보기](./GOLD/2493_탑.cpp) | ❌ |
-| 03 | 괄호 제거 | [2800](https://www.acmicpc.net/problem/2800) | <img src="https://static.solved.ac/tier_small/11.svg" width="20px"/> | 자료 구조, 문자열, 스택, 재귀 | [보기](./GOLD/2800_괄호_제거.cpp) | ❌ |
+| 01 | 오큰수 | [17298](https://www.acmicpc.net/problem/17298) | <img src="https://static.solved.ac/tier_small/12.svg" width="20px"/> | 자료 구조, 스택 | [보기](./GOLD/[FAIL]17298_오큰수.cpp) | ❌ |
+| 02 | 탑 | [2493](https://www.acmicpc.net/problem/2493) | <img src="https://static.solved.ac/tier_small/11.svg" width="20px"/> | 자료 구조, 스택 | [보기](./GOLD/[FAIL]2493_탑.cpp) | ❌ |
+| 03 | 괄호 제거 | [2800](https://www.acmicpc.net/problem/2800) | <img src="https://static.solved.ac/tier_small/11.svg" width="20px"/> | 자료 구조, 문자열, 스택, 재귀 | [보기](./GOLD/[FAIL]2800_괄호_제거.cpp) | ❌ |
 
 
 [Bronze5]: https://static.solved.ac/tier_small/1.svg
