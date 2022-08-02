@@ -23,7 +23,7 @@
 | 04 | 스택 수열 | [1874](https://www.acmicpc.net/problem/1874) | <img src="https://static.solved.ac/tier_small/9.svg" width="20px"/> | 자료 구조, 스택 | [보기](./SILVER/1874_스택_수열.cpp) | ⭕ |
 | 05 | 제로 | [10773](https://www.acmicpc.net/problem/10773) | <img src="https://static.solved.ac/tier_small/7.svg" width="20px"/> | 구현, 자료 구조, 스택 | [보기](./SILVER/10773_제로.cpp) | ⭕ |
 | 06 | 쇠막대기 | [10799](https://www.acmicpc.net/problem/10799) | <img src="https://static.solved.ac/tier_small/8.svg" width="20px"/> | 자료 구조, 스택 | [보기](./SILVER/10799_쇠막대기.cpp) | ⭕ |
-| 07 | 에디터 | [1406](https://www.acmicpc.net/problem/1406) | <img src="https://static.solved.ac/tier_small/9.svg" width="20px"/> | 자료 구조, 스택, 연결 리스트 | [보기](./Silver/1406_에디터.cpp) | ⭕ |
+| 07 | 에디터 | [1406](https://www.acmicpc.net/problem/1406) | <img src="https://static.solved.ac/tier_small/9.svg" width="20px"/> | 자료 구조, 스택, 연결 리스트 | [보기](./SILVER/1406_에디터.cpp) | ⭕ |
 
 ### 🥇 Gold
 
