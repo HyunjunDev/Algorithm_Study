@@ -8,7 +8,7 @@
 
 |  번호  |  문제 이름  |  문제 번호  |  난이도  |  유형  |  코드  |  성공 여부  |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
-| 01 | 약수 구하기 | [2501](https://www.acmicpc.net/problem/2501) | <img src="https://static.solved.ac/tier_small/3.svg" width="20px"/> | 수학, 브루트 포스 | [보기](./BRONZE/1037_약수_구하기.cpp) | ⭕ |
+| 01 | 약수 구하기 | [2501](https://www.acmicpc.net/problem/2501) | <img src="https://static.solved.ac/tier_small/3.svg" width="20px"/> | 수학, 브루트 포스 | [보기](./BRONZE/2501_약수_구하기.cpp) | ⭕ |
 | 02 | 피보나치 수 5 | [10870](https://www.acmicpc.net/problem/10870) | <img src="https://static.solved.ac/tier_small/4.svg" width="20px"/> | 수학, 구현 | [보기](./BRONZE/10870_피보나치_수_5.cpp) | ⭕ |
 | 03 | 약수 | [1037](https://www.acmicpc.net/problem/1037) | <img src="https://static.solved.ac/tier_small/5.svg" width="20px"/> | 수학, 정수론 | [보기](./BRONZE/1037_약수.cpp) | ⭕ |
 | 04 | 단어순서 뒤집기 | [12605](https://www.acmicpc.net/problem/12605) | <img src="https://static.solved.ac/tier_small/5.svg" width="20px"/> | 자료 구조, 문자열, 파싱, 스택 | [보기](./BRONZE/12605_단어순서_뒤집기.cpp) | ⭕ |
