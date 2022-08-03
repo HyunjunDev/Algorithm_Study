@@ -26,6 +26,7 @@
 | 07 | 에디터 | [1406](https://www.acmicpc.net/problem/1406) | <img src="https://static.solved.ac/tier_small/9.svg" width="20px"/> | 자료 구조, 스택, 연결 리스트 | [보기](./SILVER/1406_에디터.cpp) | ⭕ |
 | 08 | 카드2 | [2164](https://www.acmicpc.net/problem/2164) | <img src="https://static.solved.ac/tier_small/7.svg" width="20px"/> | 자료 구조, 큐 | [보기](./SILVER/2164_카드2.cpp) | ⭕ |
 | 09 | 요세푸스 문제 0 | [11866](https://www.acmicpc.net/problem/11866) | <img src="https://static.solved.ac/tier_small/6.svg" width="20px"/> | 구현, 자료 구조, 큐 | [보기](./SILVER/11866_요세푸스_문제_0.cpp) | ⭕ |
+| 09 | 키로거 | [5397](https://www.acmicpc.net/problem/5397) | <img src="https://static.solved.ac/tier_small/9.svg" width="20px"/> | 구현, 스택, 연결 리스트 | [보기](./SILVER/5397_.cpp) | ⭕ |
 
 ### 🥇 Gold
 
