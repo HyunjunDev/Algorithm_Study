@@ -28,6 +28,7 @@
 | 09 | 요세푸스 문제 0 | [11866](https://www.acmicpc.net/problem/11866) | <img src="https://static.solved.ac/tier_small/6.svg" width="20px"/> | 구현, 자료 구조, 큐 | [보기](./SILVER/11866_요세푸스_문제_0.cpp) | ⭕ |
 | 10 | 키로거 | [5397](https://www.acmicpc.net/problem/5397) | <img src="https://static.solved.ac/tier_small/9.svg" width="20px"/> | 구현, 스택, 연결 리스트 | [보기](./SILVER/5397_키로거.cpp) | ⭕ |
 | 11 | 듣보잡 | [1764](https://www.acmicpc.net/problem/1764) | <img src="https://static.solved.ac/tier_small/7.svg" width="20px"/> | 자료 구조, 문자열, 정렬, 해시를 사용한 집합과 맵 | [보기](./SILVER/1764_듣보잡.cpp) | ⭕ |
+| 12 | 카드 놓기 | [5568](https://www.acmicpc.net/problem/5568) | <img src="https://static.solved.ac/tier_small/7.svg" width="20px"/> | 자료 구조, 브루트 포스, 해시를 사용한 집합과 맵 | [보기](./SILVER/5568_카드_놓기.cpp) | ❌ |
 
 ### 🥇 Gold
 
