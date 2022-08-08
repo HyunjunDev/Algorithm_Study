@@ -29,6 +29,7 @@
 | 10 | 키로거 | [5397](https://www.acmicpc.net/problem/5397) | <img src="https://static.solved.ac/tier_small/9.svg" width="20px"/> | 구현, 스택, 연결 리스트 | [보기](./SILVER/5397_키로거.cpp) | ⭕ |
 | 11 | 듣보잡 | [1764](https://www.acmicpc.net/problem/1764) | <img src="https://static.solved.ac/tier_small/7.svg" width="20px"/> | 자료 구조, 문자열, 정렬, 해시를 사용한 집합과 맵 | [보기](./SILVER/1764_듣보잡.cpp) | ⭕ |
 | 12 | 카드 놓기 | [5568](https://www.acmicpc.net/problem/5568) | <img src="https://static.solved.ac/tier_small/7.svg" width="20px"/> | 자료 구조, 브루트 포스, 해시를 사용한 집합과 맵 | [보기](./SILVER/[FAIL]5568_카드_놓기.cpp) | ❌ |
+| 13 | 문자열 집합 | [14425](https://www.acmicpc.net/problem/14425) | <img src="https://static.solved.ac/tier_small/8.svg" width="20px"/> | 자료 구조, 문자열, 해시(트리)를 사용한 집합과 맵 | [보기](./SILVER/14425_문자열_집합.cpp) | ⭕ |
 
 ### 🥇 Gold
 
