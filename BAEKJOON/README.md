@@ -32,6 +32,7 @@
 | 13 | 문자열 집합 | [14425](https://www.acmicpc.net/problem/14425) | <img src="https://static.solved.ac/tier_small/8.svg" width="20px"/> | 자료 구조, 문자열, 해시(트리)를 사용한 집합과 맵 | [보기](./SILVER/14425_문자열_집합.cpp) | ⭕ |
 | 14 | 나는야 포켓몬 마스터 이다솜 | [1620](https://www.acmicpc.net/problem/1620) | <img src="https://static.solved.ac/tier_small/7.svg" width="20px"/> | 자료 구조, 해시를 사용한 집합과 맵 | [보기](./SILVER/1620_나는야_포켓몬_마스터_이다솜.cpp) | ⭕ |
 | 15 | 숫자 카드 2 | [10816](https://www.acmicpc.net/problem/10816) | <img src="https://static.solved.ac/tier_small/7.svg" width="20px"/> | 자료 구조, 정렬, 이분 탐색, 해시를 사용한 집합과 맵 | [보기](./SILVER/10816_숫자_카드_2.cpp) | ⭕ |
+| 16 | 대칭 차집합 | [1269](https://www.acmicpc.net/problem/1269) | <img src="https://static.solved.ac/tier_small/7.svg" width="20px"/> | 자료 구조, 해시(트리)를 사용한 집합과 맵 | [보기](./SILVER/1269_대칭_차집합.cpp) | ⭕ |
 
 
 ### 🥇 Gold
