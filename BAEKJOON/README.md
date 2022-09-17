@@ -12,6 +12,7 @@
 | 02 | 피보나치 수 5 | [10870](https://www.acmicpc.net/problem/10870) | <img src="https://static.solved.ac/tier_small/4.svg" width="20px"/> | 수학, 구현 | [보기](./BRONZE/10870_피보나치_수_5.cpp) | ⭕ |
 | 03 | 약수 | [1037](https://www.acmicpc.net/problem/1037) | <img src="https://static.solved.ac/tier_small/5.svg" width="20px"/> | 수학, 정수론 | [보기](./BRONZE/1037_약수.cpp) | ⭕ |
 | 04 | 단어순서 뒤집기 | [12605](https://www.acmicpc.net/problem/12605) | <img src="https://static.solved.ac/tier_small/5.svg" width="20px"/> | 자료 구조, 문자열, 파싱, 스택 | [보기](./BRONZE/12605_단어순서_뒤집기.cpp) | ⭕ |
+| 05 | 수 정렬하기 | [2750](https://www.acmicpc.net/problem/2750) | <img src="https://static.solved.ac/tier_small/4.svg" width="20px"/> | 구현, 정렬 | [보기](./BRONZE/2750_수_정렬하기) | ⭕ |
 
 ### 🥈 Silver
 
@@ -34,6 +35,13 @@
 | 15 | 숫자 카드 2 | [10816](https://www.acmicpc.net/problem/10816) | <img src="https://static.solved.ac/tier_small/7.svg" width="20px"/> | 자료 구조, 정렬, 이분 탐색, 해시를 사용한 집합과 맵 | [보기](./SILVER/10816_숫자_카드_2.cpp) | ⭕ |
 | 16 | 대칭 차집합 | [1269](https://www.acmicpc.net/problem/1269) | <img src="https://static.solved.ac/tier_small/7.svg" width="20px"/> | 자료 구조, 해시(트리)를 사용한 집합과 맵 | [보기](./SILVER/1269_대칭_차집합.cpp) | ⭕ |
 | 17 | 서로 다른 부분 문자열의 수 | [11478](https://www.acmicpc.net/problem/11478) | <img src="https://static.solved.ac/tier_small/8.svg" width="20px"/> | 자료 구조, 문자열, 해시(트리)를 사용한 집합과 맵 | [보기](./SILVER/[FAIL]11478_서로_다른_부분_문자열의_개수.cpp) | ❌ |
+| 18 | 유기농 배추 | [1012](https://www.acmicpc.net/problem/1012) | <img src="https://static.solved.ac/tier_small/9.svg" width="20px"/> | 그래프 이론, 너비 우선 탐색, 깊이 우선 탐색 | [보기](./SILVER/1012_유기농_배추.cpp) | ⭕ |
+| 19 | DFS와 BFS | [1260](https://www.acmicpc.net/problem/1260) | <img src="https://static.solved.ac/tier_small/9.svg" width="20px"/> | 그래프 이론, 너비 우선 탐색, 깊이 우선 탐색 | [보기](./SILVER/1260_DFS와_BFS.cpp) | ⭕ |
+| 20 | 숨바꼭질 | [1692](https://www.acmicpc.net/problem/1692) | <img src="https://static.solved.ac/tier_small/10.svg" width="20px"/> | 그래프 이론, 너비 우선 탐색 | [보기](./SILVER/1692_숨바꼭질.cpp) | ⭕ |
+| 21 | 미로 탐색 | [2178](https://www.acmicpc.net/problem/2178) | <img src="https://static.solved.ac/tier_small/10.svg" width="20px"/> | 그래프 이론, 너비 우선 탐색 | [보기](./SILVER/2178_미로_탐색.cpp) | ⭕ |
+| 22 | 바이러스 | [2606](https://www.acmicpc.net/problem/2606) | <img src="https://static.solved.ac/tier_small/8.svg" width="20px"/> | 그래프 이론, 너비 우선 탐색, 깊이 우선 탐색 | [보기](./SILVER/2606_바이러스.cpp) | ⭕ |
+| 23 | 단지번호붙이기 | [2667](https://www.acmicpc.net/problem/2667) | <img src="https://static.solved.ac/tier_small/10.svg" width="20px"/> | 그래프 이론, 너비 우선 탐색, 깊이 우선 탐색 | [보기](./SILVER/2667_단지번호붙이기.cpp) | ⭕ |
+| 24 | 나이트의 이동 | [7562](https://www.acmicpc.net/problem/7562) | <img src="https://static.solved.ac/tier_small/10.svg" width="20px"/> | 그래프 이론, 너비 우선 탐색 | [보기](./SILVER/7562_나이트의_이동.cpp) | ⭕ |
 
 
 ### 🥇 Gold
