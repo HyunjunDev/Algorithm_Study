@@ -37,7 +37,7 @@
 | 17 | 서로 다른 부분 문자열의 수 | [11478](https://www.acmicpc.net/problem/11478) | <img src="https://static.solved.ac/tier_small/8.svg" width="20px"/> | 자료 구조, 문자열, 해시(트리)를 사용한 집합과 맵 | [보기](./SILVER/[FAIL]11478_서로_다른_부분_문자열의_개수.cpp) | ❌ |
 | 18 | 유기농 배추 | [1012](https://www.acmicpc.net/problem/1012) | <img src="https://static.solved.ac/tier_small/9.svg" width="20px"/> | 그래프 이론, 너비 우선 탐색, 깊이 우선 탐색 | [보기](./SILVER/1012_유기농_배추.cpp) | ⭕ |
 | 19 | DFS와 BFS | [1260](https://www.acmicpc.net/problem/1260) | <img src="https://static.solved.ac/tier_small/9.svg" width="20px"/> | 그래프 이론, 너비 우선 탐색, 깊이 우선 탐색 | [보기](./SILVER/1260_DFS와_BFS.cpp) | ⭕ |
-| 20 | 숨바꼭질 | [1692](https://www.acmicpc.net/problem/1692) | <img src="https://static.solved.ac/tier_small/10.svg" width="20px"/> | 그래프 이론, 너비 우선 탐색 | [보기](./SILVER/1692_숨바꼭질.cpp) | ⭕ |
+| 20 | 숨바꼭질 | [1697](https://www.acmicpc.net/problem/1697) | <img src="https://static.solved.ac/tier_small/10.svg" width="20px"/> | 그래프 이론, 너비 우선 탐색 | [보기](./SILVER/1697_숨바꼭질.cpp) | ⭕ |
 | 21 | 미로 탐색 | [2178](https://www.acmicpc.net/problem/2178) | <img src="https://static.solved.ac/tier_small/10.svg" width="20px"/> | 그래프 이론, 너비 우선 탐색 | [보기](./SILVER/2178_미로_탐색.cpp) | ⭕ |
 | 22 | 바이러스 | [2606](https://www.acmicpc.net/problem/2606) | <img src="https://static.solved.ac/tier_small/8.svg" width="20px"/> | 그래프 이론, 너비 우선 탐색, 깊이 우선 탐색 | [보기](./SILVER/2606_바이러스.cpp) | ⭕ |
 | 23 | 단지번호붙이기 | [2667](https://www.acmicpc.net/problem/2667) | <img src="https://static.solved.ac/tier_small/10.svg" width="20px"/> | 그래프 이론, 너비 우선 탐색, 깊이 우선 탐색 | [보기](./SILVER/2667_단지번호붙이기.cpp) | ⭕ |
