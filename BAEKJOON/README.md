@@ -13,6 +13,9 @@
 | 03 | 약수 | [1037](https://www.acmicpc.net/problem/1037) | <img src="https://static.solved.ac/tier_small/5.svg" width="20px"/> | 수학, 정수론 | [보기](./BRONZE/1037_약수.cpp) | ⭕ |
 | 04 | 단어순서 뒤집기 | [12605](https://www.acmicpc.net/problem/12605) | <img src="https://static.solved.ac/tier_small/5.svg" width="20px"/> | 자료 구조, 문자열, 파싱, 스택 | [보기](./BRONZE/12605_단어순서_뒤집기.cpp) | ⭕ |
 | 05 | 수 정렬하기 | [2750](https://www.acmicpc.net/problem/2750) | <img src="https://static.solved.ac/tier_small/4.svg" width="20px"/> | 구현, 정렬 | [보기](./BRONZE/2750_수_정렬하기) | ⭕ |
+| 06 | 직각삼각형 | [4153](https://www.acmicpc.net/problem/4153) | <img src="https://static.solved.ac/tier_small/3.svg" width="20px"/> | 수학, 기하학, 피타고라스 정리 | [보기](./BRONZE/4153_직각삼각형) | ⭕ |
+| 07 | 최대공약수와 최소공배수 | [2609](https://www.acmicpc.net/problem/2609) | <img src="https://static.solved.ac/tier_small/5.svg" width="20px"/> | 수학, 정수론, 유클리드 호제법 | [보기](./BRONZE/2609_최대공약수와_최소공배수) | ⭕ |
+| 08 | OX퀴즈 | [8958](https://www.acmicpc.net/problem/8958) | <img src="https://static.solved.ac/tier_small/4.svg" width="20px"/> | 구현, 문자열 | [보기](./BRONZE/8958_OX퀴즈) | ⭕ |
 
 ### 🥈 Silver
 
@@ -42,6 +45,14 @@
 | 22 | 바이러스 | [2606](https://www.acmicpc.net/problem/2606) | <img src="https://static.solved.ac/tier_small/8.svg" width="20px"/> | 그래프 이론, 너비 우선 탐색, 깊이 우선 탐색 | [보기](./SILVER/2606_바이러스.cpp) | ⭕ |
 | 23 | 단지번호붙이기 | [2667](https://www.acmicpc.net/problem/2667) | <img src="https://static.solved.ac/tier_small/10.svg" width="20px"/> | 그래프 이론, 너비 우선 탐색, 깊이 우선 탐색 | [보기](./SILVER/2667_단지번호붙이기.cpp) | ⭕ |
 | 24 | 나이트의 이동 | [7562](https://www.acmicpc.net/problem/7562) | <img src="https://static.solved.ac/tier_small/10.svg" width="20px"/> | 그래프 이론, 너비 우선 탐색 | [보기](./SILVER/7562_나이트의_이동.cpp) | ⭕ |
+| 25 | 소수 구하기 | [1929](https://www.acmicpc.net/problem/1929) | <img src="https://static.solved.ac/tier_small/8.svg" width="20px"/> | 수학, 정수론, 소수 판정 | [보기](./SILVER/1929_소수_구하기.cpp) | ⭕ |
+| 26 | 단어 정렬 | [1181](https://www.acmicpc.net/problem/1181) | <img src="https://static.solved.ac/tier_small/6.svg" width="20px"/> | 문자열, 정렬 | [보기](./SILVER/1181_단어_정렬.cpp) | ⭕ |
+| 27 | 나이순 정렬 | [10814](https://www.acmicpc.net/problem/10814) | <img src="https://static.solved.ac/tier_small/6.svg" width="20px"/> | 정렬 | [보기](./SILVER/10814_나이순_정렬.cpp) | ⭕ |
+| 28 | 좌표 정렬하기 | [11650](https://www.acmicpc.net/problem/11650) | <img src="https://static.solved.ac/tier_small/6.svg" width="20px"/> | 정렬 | [보기](./SILVER/11650_좌표_정렬하기.cpp) | ⭕ |
+| 29 | 좌표 정렬하기 2 | [11651](https://www.acmicpc.net/problem/11651) | <img src="https://static.solved.ac/tier_small/6.svg" width="20px"/> | 정렬 | [보기](./SILVER/11651_좌표_정렬하기_2.cpp) | ⭕ |
+| 30 | 수 정렬하기 2 | [2751](https://www.acmicpc.net/problem/2751) | <img src="https://static.solved.ac/tier_small/6.svg" width="20px"/> | 정렬 | [보기](./SILVER/2751_수_정렬하기_2.cpp) | ⭕ |
+| 31 | 수 찾기 | [1920](https://www.acmicpc.net/problem/1920) | <img src="https://static.solved.ac/tier_small/7.svg" width="20px"/> | 자료 구조, 이분 탐색 | [보기](./SILVER/1920_수_찾기.cpp) | ⭕ |
+
 
 
 ### 🥇 Gold
@@ -51,6 +62,7 @@
 | 01 | 오큰수 | [17298](https://www.acmicpc.net/problem/17298) | <img src="https://static.solved.ac/tier_small/12.svg" width="20px"/> | 자료 구조, 스택 | [보기](./GOLD/[FAIL]17298_오큰수.cpp) | ❌ |
 | 02 | 탑 | [2493](https://www.acmicpc.net/problem/2493) | <img src="https://static.solved.ac/tier_small/11.svg" width="20px"/> | 자료 구조, 스택 | [보기](./GOLD/[FAIL]2493_탑.cpp) | ❌ |
 | 03 | 괄호 제거 | [2800](https://www.acmicpc.net/problem/2800) | <img src="https://static.solved.ac/tier_small/11.svg" width="20px"/> | 자료 구조, 문자열, 스택, 재귀 | [보기](./GOLD/[FAIL]2800_괄호_제거.cpp) | ❌ |
+| 04 | 토마토 | [7576](https://www.acmicpc.net/problem/7576) | <img src="https://static.solved.ac/tier_small/11.svg" width="20px"/> | 그래프 이론, 너비 우선  | [보기](./GOLD/7576_토마토.cpp) | ⭕ |
 
 
 [Bronze5]: https://static.solved.ac/tier_small/1.svg
