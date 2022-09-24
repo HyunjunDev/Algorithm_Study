@@ -12,10 +12,10 @@
 | 02 | 피보나치 수 5 | [10870](https://www.acmicpc.net/problem/10870) | <img src="https://static.solved.ac/tier_small/4.svg" width="20px"/> | 수학, 구현 | [보기](./BRONZE/10870_피보나치_수_5.cpp) | ⭕ |
 | 03 | 약수 | [1037](https://www.acmicpc.net/problem/1037) | <img src="https://static.solved.ac/tier_small/5.svg" width="20px"/> | 수학, 정수론 | [보기](./BRONZE/1037_약수.cpp) | ⭕ |
 | 04 | 단어순서 뒤집기 | [12605](https://www.acmicpc.net/problem/12605) | <img src="https://static.solved.ac/tier_small/5.svg" width="20px"/> | 자료 구조, 문자열, 파싱, 스택 | [보기](./BRONZE/12605_단어순서_뒤집기.cpp) | ⭕ |
-| 05 | 수 정렬하기 | [2750](https://www.acmicpc.net/problem/2750) | <img src="https://static.solved.ac/tier_small/4.svg" width="20px"/> | 구현, 정렬 | [보기](./BRONZE/2750_수_정렬하기) | ⭕ |
-| 06 | 직각삼각형 | [4153](https://www.acmicpc.net/problem/4153) | <img src="https://static.solved.ac/tier_small/3.svg" width="20px"/> | 수학, 기하학, 피타고라스 정리 | [보기](./BRONZE/4153_직각삼각형) | ⭕ |
-| 07 | 최대공약수와 최소공배수 | [2609](https://www.acmicpc.net/problem/2609) | <img src="https://static.solved.ac/tier_small/5.svg" width="20px"/> | 수학, 정수론, 유클리드 호제법 | [보기](./BRONZE/2609_최대공약수와_최소공배수) | ⭕ |
-| 08 | OX퀴즈 | [8958](https://www.acmicpc.net/problem/8958) | <img src="https://static.solved.ac/tier_small/4.svg" width="20px"/> | 구현, 문자열 | [보기](./BRONZE/8958_OX퀴즈) | ⭕ |
+| 05 | 수 정렬하기 | [2750](https://www.acmicpc.net/problem/2750) | <img src="https://static.solved.ac/tier_small/4.svg" width="20px"/> | 구현, 정렬 | [보기](./BRONZE/2750_수_정렬하기.cpp) | ⭕ |
+| 06 | 직각삼각형 | [4153](https://www.acmicpc.net/problem/4153) | <img src="https://static.solved.ac/tier_small/3.svg" width="20px"/> | 수학, 기하학, 피타고라스 정리 | [보기](./BRONZE/4153_직각삼각형.cpp) | ⭕ |
+| 07 | 최대공약수와 최소공배수 | [2609](https://www.acmicpc.net/problem/2609) | <img src="https://static.solved.ac/tier_small/5.svg" width="20px"/> | 수학, 정수론, 유클리드 호제법 | [보기](./BRONZE/2609_최대공약수와_최소공배수.cpp) | ⭕ |
+| 08 | OX퀴즈 | [8958](https://www.acmicpc.net/problem/8958) | <img src="https://static.solved.ac/tier_small/4.svg" width="20px"/> | 구현, 문자열 | [보기](./BRONZE/8958_OX퀴즈.cpp) | ⭕ |
 
 ### 🥈 Silver
 
