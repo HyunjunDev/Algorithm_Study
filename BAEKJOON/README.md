@@ -62,7 +62,7 @@
 | 01 | 오큰수 | [17298](https://www.acmicpc.net/problem/17298) | <img src="https://static.solved.ac/tier_small/12.svg" width="20px"/> | 자료 구조, 스택 | [보기](./GOLD/[FAIL]17298_오큰수.cpp) | ❌ |
 | 02 | 탑 | [2493](https://www.acmicpc.net/problem/2493) | <img src="https://static.solved.ac/tier_small/11.svg" width="20px"/> | 자료 구조, 스택 | [보기](./GOLD/[FAIL]2493_탑.cpp) | ❌ |
 | 03 | 괄호 제거 | [2800](https://www.acmicpc.net/problem/2800) | <img src="https://static.solved.ac/tier_small/11.svg" width="20px"/> | 자료 구조, 문자열, 스택, 재귀 | [보기](./GOLD/[FAIL]2800_괄호_제거.cpp) | ❌ |
-| 04 | 토마토 | [7576](https://www.acmicpc.net/problem/7576) | <img src="https://static.solved.ac/tier_small/11.svg" width="20px"/> | 그래프 이론, 너비 우선  | [보기](./GOLD/7576_토마토.cpp) | ⭕ |
+| 04 | 토마토 | [7576](https://www.acmicpc.net/problem/7576) | <img src="https://static.solved.ac/tier_small/11.svg" width="20px"/> | 그래프 이론, 너비 우선 탐색 | [보기](./GOLD/7576_토마토.cpp) | ⭕ |
 
 
 [Bronze5]: https://static.solved.ac/tier_small/1.svg
