@@ -63,6 +63,14 @@
 | 02 | 탑 | [2493](https://www.acmicpc.net/problem/2493) | <img src="https://static.solved.ac/tier_small/11.svg" width="20px"/> | 자료 구조, 스택 | [보기](./GOLD/[FAIL]2493_탑.cpp) | ❌ |
 | 03 | 괄호 제거 | [2800](https://www.acmicpc.net/problem/2800) | <img src="https://static.solved.ac/tier_small/11.svg" width="20px"/> | 자료 구조, 문자열, 스택, 재귀 | [보기](./GOLD/[FAIL]2800_괄호_제거.cpp) | ❌ |
 | 04 | 토마토 | [7576](https://www.acmicpc.net/problem/7576) | <img src="https://static.solved.ac/tier_small/11.svg" width="20px"/> | 그래프 이론, 너비 우선 탐색 | [보기](./GOLD/7576_토마토.cpp) | ⭕ |
+| 05 | 최소 스패닝 트리 | [1197](https://www.acmicpc.net/problem/1197) | <img src="https://static.solved.ac/tier_small/12.svg" width="20px"/> | 그래프 이론, 최소 스패닝 트리 | [보기](./GOLD/1197_최소_스패닝_트리.cpp) | ⭕ |
+| 06 | 나만 안되는 연애 | [14621](https://www.acmicpc.net/problem/14621) | <img src="https://static.solved.ac/tier_small/13.svg" width="20px"/> | 그래프 이론, 최소 스패닝 트리 | [보기](./GOLD/14621_나만_안되는_연애.cpp) | ⭕ |
+| 07 | 도시 분할 계획 | [1647](https://www.acmicpc.net/problem/1647) | <img src="https://static.solved.ac/tier_small/12.svg" width="20px"/> | 그래프 이론, 최소 스패닝 트리 | [보기](./GOLD/1647_도시_분할_계획.cpp) | ⭕ |
+| 08 | 집합의 표현 | [1717](https://www.acmicpc.net/problem/1717) | <img src="https://static.solved.ac/tier_small/12.svg" width="20px"/> | 자료 구조, 분리 집합 | [보기](./GOLD/1717_집합의_표현.cpp) | ⭕ |
+| 09 | 우주신과의 교감 | [1774](https://www.acmicpc.net/problem/1774) | <img src="https://static.solved.ac/tier_small/13.svg" width="20px"/> | 그래프 이론, 최소 스패닝 트리 | [보기](./GOLD/1774_우주신과의_교감.cpp) | ⭕ |
+| 10 | 네트워크 연결 | [1992](https://www.acmicpc.net/problem/1992) | <img src="https://static.solved.ac/tier_small/12.svg" width="20px"/> | 그래프 이론, 최소 스패닝 트리 | [보기](./GOLD/1992_네트워크_연결.cpp) | ⭕ |
+| 11 | 뱀 | [3190](https://www.acmicpc.net/problem/3190) | <img src="https://static.solved.ac/tier_small/12.svg" width="20px"/> | 구현, 자료구조, 큐, 덱, 시뮬레이션 | [보기](./GOLD/3190_뱀.cpp) | ⭕ |
+| 12 | 별자리 만들기 | [4386](https://www.acmicpc.net/problem/4386) | <img src="https://static.solved.ac/tier_small/13.svg" width="20px"/> | 그래프 이론, 최소 스패닝 트리 | [보기](./GOLD/4386_별자리_만들기.cpp) | ⭕ |
 
 
 [Bronze5]: https://static.solved.ac/tier_small/1.svg
