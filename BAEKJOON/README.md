@@ -70,7 +70,7 @@
 | 07 | 도시 분할 계획 | [1647](https://www.acmicpc.net/problem/1647) | <img src="https://static.solved.ac/tier_small/12.svg" width="20px"/> | 그래프 이론, 최소 스패닝 트리 | [보기](./GOLD/1647_도시_분할_계획.cpp) | ⭕ |
 | 08 | 집합의 표현 | [1717](https://www.acmicpc.net/problem/1717) | <img src="https://static.solved.ac/tier_small/12.svg" width="20px"/> | 자료 구조, 분리 집합 | [보기](./GOLD/1717_집합의_표현.cpp) | ⭕ |
 | 09 | 우주신과의 교감 | [1774](https://www.acmicpc.net/problem/1774) | <img src="https://static.solved.ac/tier_small/13.svg" width="20px"/> | 그래프 이론, 최소 스패닝 트리 | [보기](./GOLD/1774_우주신과의_교감.cpp) | ⭕ |
-| 10 | 네트워크 연결 | [1992](https://www.acmicpc.net/problem/1992) | <img src="https://static.solved.ac/tier_small/12.svg" width="20px"/> | 그래프 이론, 최소 스패닝 트리 | [보기](./GOLD/1992_네트워크_연결.cpp) | ⭕ |
+| 10 | 네트워크 연결 | [1922](https://www.acmicpc.net/problem/1922) | <img src="https://static.solved.ac/tier_small/12.svg" width="20px"/> | 그래프 이론, 최소 스패닝 트리 | [보기](./GOLD/1922_네트워크_연결.cpp) | ⭕ |
 | 11 | 뱀 | [3190](https://www.acmicpc.net/problem/3190) | <img src="https://static.solved.ac/tier_small/12.svg" width="20px"/> | 구현, 자료구조, 큐, 덱, 시뮬레이션 | [보기](./GOLD/3190_뱀.cpp) | ⭕ |
 | 12 | 별자리 만들기 | [4386](https://www.acmicpc.net/problem/4386) | <img src="https://static.solved.ac/tier_small/13.svg" width="20px"/> | 그래프 이론, 최소 스패닝 트리 | [보기](./GOLD/4386_별자리_만들기.cpp) | ⭕ |
 | 13 | 전력난 | [6497](https://www.acmicpc.net/problem/6497) | <img src="https://static.solved.ac/tier_small/12.svg" width="20px"/> | 그래프 이론, 최소 스패닝 트리 | [보기](./GOLD/6497_전력난.cpp) | ⭕ |
