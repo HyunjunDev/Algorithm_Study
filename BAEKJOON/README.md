@@ -52,6 +52,8 @@
 | 29 | 좌표 정렬하기 2 | [11651](https://www.acmicpc.net/problem/11651) | <img src="https://static.solved.ac/tier_small/6.svg" width="20px"/> | 정렬 | [보기](./SILVER/11651_좌표_정렬하기_2.cpp) | ⭕ |
 | 30 | 수 정렬하기 2 | [2751](https://www.acmicpc.net/problem/2751) | <img src="https://static.solved.ac/tier_small/6.svg" width="20px"/> | 정렬 | [보기](./SILVER/2751_수_정렬하기_2.cpp) | ⭕ |
 | 31 | 수 찾기 | [1920](https://www.acmicpc.net/problem/1920) | <img src="https://static.solved.ac/tier_small/7.svg" width="20px"/> | 자료 구조, 이분 탐색 | [보기](./SILVER/1920_수_찾기.cpp) | ⭕ |
+| 32 | 1로 만들기 | [1463](https://www.acmicpc.net/problem/1463) | <img src="https://static.solved.ac/tier_small/8.svg" width="20px"/> | 다이나믹 프로그래밍 | [보기](./SILVER/1463_1로_만들기.cpp) | ⭕ |
+| 33 | 파도반 수열 | [9461](https://www.acmicpc.net/problem/9461) | <img src="https://static.solved.ac/tier_small/8.svg" width="20px"/> | 다이나믹 프로그래밍, 수학 | [보기](./SILVER/9461_파도반_수열.cpp) | ⭕ |
 
 
 
@@ -71,7 +73,15 @@
 | 10 | 네트워크 연결 | [1992](https://www.acmicpc.net/problem/1992) | <img src="https://static.solved.ac/tier_small/12.svg" width="20px"/> | 그래프 이론, 최소 스패닝 트리 | [보기](./GOLD/1992_네트워크_연결.cpp) | ⭕ |
 | 11 | 뱀 | [3190](https://www.acmicpc.net/problem/3190) | <img src="https://static.solved.ac/tier_small/12.svg" width="20px"/> | 구현, 자료구조, 큐, 덱, 시뮬레이션 | [보기](./GOLD/3190_뱀.cpp) | ⭕ |
 | 12 | 별자리 만들기 | [4386](https://www.acmicpc.net/problem/4386) | <img src="https://static.solved.ac/tier_small/13.svg" width="20px"/> | 그래프 이론, 최소 스패닝 트리 | [보기](./GOLD/4386_별자리_만들기.cpp) | ⭕ |
+| 13 | 전력난 | [6497](https://www.acmicpc.net/problem/6497) | <img src="https://static.solved.ac/tier_small/12.svg" width="20px"/> | 그래프 이론, 최소 스패닝 트리 | [보기](./GOLD/6497_전력난.cpp) | ⭕ |
 
+
+
+### 🍀 Platinum
+
+|  번호  |  문제 이름  |  문제 번호  |  난이도  |  유형  |  코드  |  성공 여부  |
+| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
+| 01 | 행성 터널 | [2887](https://www.acmicpc.net/problem/2887) | <img src="https://static.solved.ac/tier_small/16.svg" width="20px"/> | 그래프 이론, 최소 스패닝 트리, 정렬 | [보기](./PLATINUM/2887_행성_터널.cpp) | ⭕ |
 
 [Bronze5]: https://static.solved.ac/tier_small/1.svg
 [Bronze4]: https://static.solved.ac/tier_small/2.svg
