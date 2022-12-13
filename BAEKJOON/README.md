@@ -52,6 +52,8 @@
 | 29 | 좌표 정렬하기 2 | [11651](https://www.acmicpc.net/problem/11651) | <img src="https://static.solved.ac/tier_small/6.svg" width="20px"/> | 정렬 | [보기](./SILVER/11651_좌표_정렬하기_2.cpp) | ⭕ |
 | 30 | 수 정렬하기 2 | [2751](https://www.acmicpc.net/problem/2751) | <img src="https://static.solved.ac/tier_small/6.svg" width="20px"/> | 정렬 | [보기](./SILVER/2751_수_정렬하기_2.cpp) | ⭕ |
 | 31 | 수 찾기 | [1920](https://www.acmicpc.net/problem/1920) | <img src="https://static.solved.ac/tier_small/7.svg" width="20px"/> | 자료 구조, 이분 탐색 | [보기](./SILVER/1920_수_찾기.cpp) | ⭕ |
+| 32 | 1로 만들기 | [1463](https://www.acmicpc.net/problem/1463) | <img src="https://static.solved.ac/tier_small/8.svg" width="20px"/> | 다이나믹 프로그래밍 | [보기](./SILVER/1463_1로_만들기.cpp) | ⭕ |
+| 33 | 파도반 수열 | [9461](https://www.acmicpc.net/problem/9461) | <img src="https://static.solved.ac/tier_small/8.svg" width="20px"/> | 다이나믹 프로그래밍, 수학 | [보기](./SILVER/9461_파도반_수열.cpp) | ⭕ |
 
 
 
@@ -63,7 +65,23 @@
 | 02 | 탑 | [2493](https://www.acmicpc.net/problem/2493) | <img src="https://static.solved.ac/tier_small/11.svg" width="20px"/> | 자료 구조, 스택 | [보기](./GOLD/[FAIL]2493_탑.cpp) | ❌ |
 | 03 | 괄호 제거 | [2800](https://www.acmicpc.net/problem/2800) | <img src="https://static.solved.ac/tier_small/11.svg" width="20px"/> | 자료 구조, 문자열, 스택, 재귀 | [보기](./GOLD/[FAIL]2800_괄호_제거.cpp) | ❌ |
 | 04 | 토마토 | [7576](https://www.acmicpc.net/problem/7576) | <img src="https://static.solved.ac/tier_small/11.svg" width="20px"/> | 그래프 이론, 너비 우선 탐색 | [보기](./GOLD/7576_토마토.cpp) | ⭕ |
+| 05 | 최소 스패닝 트리 | [1197](https://www.acmicpc.net/problem/1197) | <img src="https://static.solved.ac/tier_small/12.svg" width="20px"/> | 그래프 이론, 최소 스패닝 트리 | [보기](./GOLD/1197_최소_스패닝_트리.cpp) | ⭕ |
+| 06 | 나만 안되는 연애 | [14621](https://www.acmicpc.net/problem/14621) | <img src="https://static.solved.ac/tier_small/13.svg" width="20px"/> | 그래프 이론, 최소 스패닝 트리 | [보기](./GOLD/14621_나만_안되는_연애.cpp) | ⭕ |
+| 07 | 도시 분할 계획 | [1647](https://www.acmicpc.net/problem/1647) | <img src="https://static.solved.ac/tier_small/12.svg" width="20px"/> | 그래프 이론, 최소 스패닝 트리 | [보기](./GOLD/1647_도시_분할_계획.cpp) | ⭕ |
+| 08 | 집합의 표현 | [1717](https://www.acmicpc.net/problem/1717) | <img src="https://static.solved.ac/tier_small/12.svg" width="20px"/> | 자료 구조, 분리 집합 | [보기](./GOLD/1717_집합의_표현.cpp) | ⭕ |
+| 09 | 우주신과의 교감 | [1774](https://www.acmicpc.net/problem/1774) | <img src="https://static.solved.ac/tier_small/13.svg" width="20px"/> | 그래프 이론, 최소 스패닝 트리 | [보기](./GOLD/1774_우주신과의_교감.cpp) | ⭕ |
+| 10 | 네트워크 연결 | [1992](https://www.acmicpc.net/problem/1992) | <img src="https://static.solved.ac/tier_small/12.svg" width="20px"/> | 그래프 이론, 최소 스패닝 트리 | [보기](./GOLD/1992_네트워크_연결.cpp) | ⭕ |
+| 11 | 뱀 | [3190](https://www.acmicpc.net/problem/3190) | <img src="https://static.solved.ac/tier_small/12.svg" width="20px"/> | 구현, 자료구조, 큐, 덱, 시뮬레이션 | [보기](./GOLD/3190_뱀.cpp) | ⭕ |
+| 12 | 별자리 만들기 | [4386](https://www.acmicpc.net/problem/4386) | <img src="https://static.solved.ac/tier_small/13.svg" width="20px"/> | 그래프 이론, 최소 스패닝 트리 | [보기](./GOLD/4386_별자리_만들기.cpp) | ⭕ |
+| 13 | 전력난 | [6497](https://www.acmicpc.net/problem/6497) | <img src="https://static.solved.ac/tier_small/12.svg" width="20px"/> | 그래프 이론, 최소 스패닝 트리 | [보기](./GOLD/6497_전력난.cpp) | ⭕ |
 
+
+
+### 🍀 Platinum
+
+|  번호  |  문제 이름  |  문제 번호  |  난이도  |  유형  |  코드  |  성공 여부  |
+| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
+| 01 | 행성 터널 | [2887](https://www.acmicpc.net/problem/2887) | <img src="https://static.solved.ac/tier_small/16.svg" width="20px"/> | 그래프 이론, 최소 스패닝 트리, 정렬 | [보기](./PLATINUM/2887_행성_터널.cpp) | ⭕ |
 
 [Bronze5]: https://static.solved.ac/tier_small/1.svg
 [Bronze4]: https://static.solved.ac/tier_small/2.svg
