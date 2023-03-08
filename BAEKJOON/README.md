@@ -57,7 +57,15 @@
 | 34 | 카드 놓기 | [18115](https://www.acmicpc.net/problem/18115) | <img src="https://static.solved.ac/tier_small/8.svg" width="20px"/> | 자료 구조, 덱 | [보기](./SILVER/18115_카드_놓기.cpp) | ❌ |
 | 35 | 보물 | [1026](https://www.acmicpc.net/problem/1026) | <img src="https://static.solved.ac/tier_small/7.svg" width="20px"/> | 그리디 알고리즘, 수학, 정렬 | [보기](./SILVER/1026_보물.cpp) | ⭕ |
 | 36 | 요세푸스 문제 | [1158](https://www.acmicpc.net/problem/1158) | <img src="https://static.solved.ac/tier_small/7.svg" width="20px"/> | 자료 구조, 큐 | [보기](./SILVER/1158_요세푸스_문제.cpp) | ⭕ |
-
+| 37 | 흙길 보수하기 | [1911](https://www.acmicpc.net/problem/1911) | <img src="https://static.solved.ac/tier_small/10.svg" width="20px"/> | 정렬, 스위핑 | [보기](./SILVER/1911_흙길_보수하기.cpp) | ⭕ |
+| 38 | 프린터 큐 | [1966](https://www.acmicpc.net/problem/1966) | <img src="https://static.solved.ac/tier_small/8.svg" width="20px"/> | 구현, 자료구조, 시뮬레이션, 큐 | [보기](./SILVER/1966_프린터_큐.cpp) | ⭕ |
+| 39 | 등수 매기기 | [2012](https://www.acmicpc.net/problem/2012) | <img src="https://static.solved.ac/tier_small/8.svg" width="20px"/> | 그리디 알고리즘, 정렬 | [보기](./SILVER/2012_등수_매기기.cpp) | ⭕ |
+| 40 | 로프 | [2217](https://www.acmicpc.net/problem/2217) | <img src="https://static.solved.ac/tier_small/7.svg" width="20px"/> | 수학, 그리디 알고리즘, 정렬 | [보기](./SILVER/2217_로프.cpp) | ⭕ |
+| 41 | 풍선 터뜨리기 | [2346](https://www.acmicpc.net/problem/2346) | <img src="https://static.solved.ac/tier_small/8.svg" width="20px"/> | 자료구조, 덱 | [보기](./SILVER/2346_풍선_터뜨리기.cpp) | ⭕ |
+| 42 | 회사에 있는 사람 | [7785](https://www.acmicpc.net/problem/7785) | <img src="https://static.solved.ac/tier_small/6.svg" width="20px"/> | 자료구조, 해시를 이용한 집합과 맵 | [보기](./SILVER/7785_회사_있는_사람.cpp) | ⭕ |
+| 43 | 숫자 카드 | [10815](https://www.acmicpc.net/problem/10815) | <img src="https://static.solved.ac/tier_small/6.svg" width="20px"/> | 자료구조, 정렬, 이분 탐색 | [보기](./SILVER/10815_숫자_카드.cpp) | ⭕ |
+| 44 | 중복 빼고 정렬하기 | [10867](https://www.acmicpc.net/problem/10867) | <img src="https://static.solved.ac/tier_small/6.svg" width="20px"/> | 정렬 | [보기](./SILVER/10867_중복_빼고_정렬하기.cpp) | ⭕ |
+| 45 | 반전 요세푸스 | [20301](https://www.acmicpc.net/problem/20301) | <img src="https://static.solved.ac/tier_small/8.svg" width="20px"/> | 구현, 자료구조, 시뮬레이션,  | [보기](./SILVER/20301_반전_요세푸스.cpp) | ⭕ |
 
 
 ### 🥇 Gold
