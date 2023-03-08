@@ -54,6 +54,9 @@
 | 31 | 수 찾기 | [1920](https://www.acmicpc.net/problem/1920) | <img src="https://static.solved.ac/tier_small/7.svg" width="20px"/> | 자료 구조, 이분 탐색 | [보기](./SILVER/1920_수_찾기.cpp) | ⭕ |
 | 32 | 1로 만들기 | [1463](https://www.acmicpc.net/problem/1463) | <img src="https://static.solved.ac/tier_small/8.svg" width="20px"/> | 다이나믹 프로그래밍 | [보기](./SILVER/1463_1로_만들기.cpp) | ⭕ |
 | 33 | 파도반 수열 | [9461](https://www.acmicpc.net/problem/9461) | <img src="https://static.solved.ac/tier_small/8.svg" width="20px"/> | 다이나믹 프로그래밍, 수학 | [보기](./SILVER/9461_파도반_수열.cpp) | ⭕ |
+| 34 | 카드 놓기 | [18115](https://www.acmicpc.net/problem/18115) | <img src="https://static.solved.ac/tier_small/8.svg" width="20px"/> | 자료 구조, 덱 | [보기](./SILVER/18115_카드_놓기.cpp) | ❌ |
+| 35 | 보물 | [1026](https://www.acmicpc.net/problem/1026) | <img src="https://static.solved.ac/tier_small/7.svg" width="20px"/> | 그리디 알고리즘, 수학, 정렬 | [보기](./SILVER/1026_보물.cpp) | ⭕ |
+| 36 | 요세푸스 문제 | [1158](https://www.acmicpc.net/problem/1158) | <img src="https://static.solved.ac/tier_small/7.svg" width="20px"/> | 자료 구조, 큐 | [보기](./SILVER/1158_요세푸스_문제.cpp) | ⭕ |
 
 
 
@@ -74,6 +77,7 @@
 | 11 | 뱀 | [3190](https://www.acmicpc.net/problem/3190) | <img src="https://static.solved.ac/tier_small/12.svg" width="20px"/> | 구현, 자료구조, 큐, 덱, 시뮬레이션 | [보기](./GOLD/3190_뱀.cpp) | ⭕ |
 | 12 | 별자리 만들기 | [4386](https://www.acmicpc.net/problem/4386) | <img src="https://static.solved.ac/tier_small/13.svg" width="20px"/> | 그래프 이론, 최소 스패닝 트리 | [보기](./GOLD/4386_별자리_만들기.cpp) | ⭕ |
 | 13 | 전력난 | [6497](https://www.acmicpc.net/problem/6497) | <img src="https://static.solved.ac/tier_small/12.svg" width="20px"/> | 그래프 이론, 최소 스패닝 트리 | [보기](./GOLD/6497_전력난.cpp) | ⭕ |
+| 14 | AC | [5430](https://www.acmicpc.net/problem/5430) | <img src="https://static.solved.ac/tier_small/12.svg" width="20px"/> | 그래프 이론, 최소 스패닝 트리 | [보기](./GOLD/5430_AC.cpp) | ⭕ |
 
 
 
