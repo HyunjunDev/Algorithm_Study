@@ -3,7 +3,7 @@
 <br>
 
 ### 공부 진행 현황   
-> <img src="https://img.shields.io/badge/NOTION-000000?style=flat-square&logo=notion&logoColor=white"/>ㅤ**Notion**  [↗](https://github.com/HyunjunDev/Algorithm_Study/tree/main/%23Notion)      <img align='right' src="http://mazandi.herokuapp.com/api?handle=hyunjun5959&theme=warm"/>   
+> <img src="https://img.shields.io/badge/NOTION-000000?style=flat-square&logo=notion&logoColor=white"/>ㅤ**Notion**  [↗](https://github.com/HyunjunDev/Algorithm_Study/tree/main/%23Notion)      <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hyunjun5959">   
 > : 틀린 문제 오답 노트   
 > <img src="https://img.shields.io/badge/CODEUP-blue?style=flat-square&logo=codio&logoColor=white"/>ㅤ**CodeUp**  [↗][코드업]        
 > : 코드업 문제 풀이    
